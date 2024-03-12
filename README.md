@@ -19,6 +19,10 @@ Tech leader specializing in AI, ML, and Data Analytics. Led MZN Studios' growth 
 
 ## GitHub Stats
 
-![Maazin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mznking&show_icons=true&count_private=true&hide=prs&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mznking&show_icons=true&count_private=true&hide=prs&theme=dark)](https://github.com/mznking)
+
+## WidgetBox
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=mznking&data=followers,repositories,stars,commits&theme=dark)](https://github.com/mznking)
 
 Let's connect and innovate! 🚀
